@@ -13,4 +13,8 @@ public class Item {
         //todo
         return "REPLACE ME";
     }
+
+    public Name getName() {
+        return name;
+    }
 }
